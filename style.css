@@ -1,0 +1,23 @@
+html {
+  background-color: #ffff00;
+}
+
+body {
+  background-color: #ff0000;
+  width: 50%;
+  font-size: 2em;
+}
+
+.pai {
+  background-color: #00ff00;
+  color: #000;
+  width: 50%;
+  font-size: 2.5em;
+}
+
+.filha {
+  background-color: #0000ff;
+  color: #00ffff;
+  width: 50%;
+  font-size: 3em;
+}
